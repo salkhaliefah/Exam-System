@@ -1,6 +1,6 @@
 
 /**
- * ExamSystem creates a window with button options to interaction with exam.
+ * ExamSystem creates displays a window with button options that interact with exam.
  * The user can navigate through questions and choose options for each question.
  * 
  * @author Safa Al Khaliefah
