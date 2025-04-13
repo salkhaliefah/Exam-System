@@ -35,7 +35,7 @@ This is a interactive basic Java Swing application that simulates a multiple-cho
 
 
 ## File Overview
-  'ExamSystem.java' -- Main GUI application and logic for display and feedback
-  'QuestionInitializer.java' -- Loads and returns a list of sample questions
+ - 'ExamSystem.java' -- Main GUI application and logic for display and feedback
+  -'QuestionInitializer.java' -- Loads and returns a list of sample questions
 
   
