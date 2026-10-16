@@ -40,5 +40,9 @@ I created a UML class diagram to visualize the classes, their attributes, method
 
 <img width="670" height="389" alt="Screenshot 2026-10-16 at 12 50 49 PM" src="https://github.com/user-attachments/assets/a4210cd2-d851-4991-acbe-3eb0b9c4f3d7" />
 
-These diagrams represent my initial design, which evolved as I developed the application. Not all planned classes and features were implemented in the final version.
+
+
+
+
+
 
