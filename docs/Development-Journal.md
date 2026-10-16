@@ -63,7 +63,84 @@ I created an eight-week timeline to organize the development process, starting w
 
 This timeline served as my initial development plan. As I progressed, I adjusted certain goals and features based on the challenges I encountered.
 
+## Development Progress & Challenges
 
+Throughout the eight-week development process, I documented my progress, design changes, and challenges while building the Java Exam System.
+
+### Weeks 2–3: Getting Started
+During the first few weeks, I focused on planning how to begin implementing my project. My initial goal was to create a student information window before developing the exam interface.
+One of my biggest challenges was figuring out where to start and how to turn my original design into a functional Java application.
+Although I had created my initial sketches and object-oriented design diagrams, I was still exploring how to structure the code and organize the GUI components.
+
+### Week 4: Initial GUI Development
+
+I began working on the application's GUI and experimenting with different Java Swing components.
+My original idea was to have a separate window for each question, allowing users to move between questions by clicking a button. However, I had trouble connecting the different windows and getting the navigation to work.
+I also noticed that the placement of GUI components was starting to differ from my original sketches.
+
+**Figure 4: Early GUI Development**
+
+<img width="1069" height="566" alt="Screenshot 2026-10-16 at 1 06 17 PM" src="https://github.com/user-attachments/assets/66b4289f-4b3a-438f-a1b3-63b2459e7210" />
+
+
+### Week 5: GUI Layout & Button Functionality
+
+I made several changes to the interface to improve its layout and functionality.
+
+Instead of displaying the full answer choices on individual buttons, I included the answers within the question text and used buttons labeled A, B, C, and D.
+One challenge was getting the "Start Exam" button to appear before the questions. At one point, the GUI components stopped displaying entirely, but after troubleshooting, I was able to get them to appear again.
+
+**Figure 5: Updated Exam Interface**
+
+<img width="1167" height="419" alt="Screenshot 2026-10-16 at 1 06 46 PM" src="https://github.com/user-attachments/assets/e335e271-ee0c-4c04-92ce-c0d874033b90" />
+
+### Week 6: Question Navigation & Event Handling
+
+I changed the navigation design by removing the need for a separate "Next" button. Instead, selecting the correct answer would automatically advance the user to the next question.
+
+If the user selected an incorrect answer, the application would display a message and require the exam to be restarted.
+
+I also encountered difficulties displaying longer questions within the window. I experimented with text formatting and used Java's newline character (`\n`) to separate the text into multiple lines.
+
+By this point, the main exam functionality was nearly complete.
+
+**Figure 6: Question Navigation & Answer Feedback**
+
+<img width="1015" height="277" alt="Screenshot 2026-10-16 at 1 07 26 PM" src="https://github.com/user-attachments/assets/ff6a2e88-acb7-49c1-a3b3-31abde43f5da" />
+
+### Week 7: Testing & Debugging
+
+During Week 7, I continued testing the application and troubleshooting issues.
+I wanted to implement a login system but had difficulty figuring out how to integrate it into the existing code. I began realizing that this feature might have been easier to develop if I had planned its implementation earlier.
+I kept the main exam interface relatively unchanged while focusing on the application's functionality.
+
+**Figure 7: Exam System During Testing**
+
+<img width="567" height="315" alt="Screenshot 2026-10-16 at 1 08 41 PM" src="https://github.com/user-attachments/assets/41662706-21f1-4582-81b1-39d89494a1dd" />
+
+### Week 8: Final Project & Reflection
+
+During the final week, I made minor adjustments to the interface, including increasing the size of the "Start Exam" button.
+Although I completed the interactive exam functionality, I wasn't able to implement every feature from my original proposal. The login system and final score calculation remained unfinished.
+Looking back, one of my biggest takeaways was understanding the importance of planning the application's structure before implementing additional features.
+This project gave me hands-on experience with Java Swing, GUI layouts, event handling, debugging, and connecting different components of an application.
+
+**Figure 8: Final Java Exam System**
+<img width="584" height="320" alt="Screenshot 2026-10-16 at 1 11 19 PM" src="https://github.com/user-attachments/assets/952b9e22-e471-49ff-9aa2-56cefcc8b555" />
+
+
+### Final Project Demonstration
+
+<img width="469" height="271" alt="Screenshot 2026-10-16 at 1 09 23 PM" src="https://github.com/user-attachments/assets/4e7743d4-be87-4836-9019-2e5ce5d22c69" />
+
+### Future Improvements
+
+If I continue developing this project, I would like to:
+
+- Implement a student login system.
+- Add a scoreboard that calculates the user's overall exam results.
+- Improve the question navigation and retry functionality.
+- Continue refining the GUI design and user experience.
 
 
 
