@@ -20,3 +20,25 @@ As I progressed through development, I experimented with different Java Swing la
 
 Although I completed the interactive exam interface, I did not end up implementing the student registration or final results page. These remained ideas for future improvements.
 
+### Object-Oriented Design: CRC Cards & UML Diagram
+
+Before coding, I created CRC (Class-Responsibility-Collaborator) cards and a UML class diagram to plan the application's structure and how the different classes would interact.
+
+#### CRC Cards
+
+I used CRC cards to outline the responsibilities, attributes, and relationships of four planned classes: **Student, Exam, Questions, and Results**.
+
+**Figure 2: Initial CRC Cards**
+
+<img width="589" height="754" alt="Screenshot 2026-10-16 at 12 49 58 PM" src="https://github.com/user-attachments/assets/de3f95bd-536a-435f-9da7-1c8ed89a75ea" />
+
+#### UML Class Diagram
+
+I created a UML class diagram to visualize the classes, their attributes, methods, and relationships using object-oriented design principles.
+
+**Figure 3: Initial UML Class Diagram**
+
+<img width="670" height="389" alt="Screenshot 2026-10-16 at 12 50 49 PM" src="https://github.com/user-attachments/assets/a4210cd2-d851-4991-acbe-3eb0b9c4f3d7" />
+
+These diagrams represent my initial design, which evolved as I developed the application. Not all planned classes and features were implemented in the final version.
+
