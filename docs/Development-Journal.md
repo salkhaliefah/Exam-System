@@ -131,7 +131,7 @@ This project gave me hands-on experience with Java Swing, GUI layouts, event han
 
 ### Final Project Demonstration
 
-<img width="469" height="271" alt="Screenshot 2026-10-16 at 1 09 23 PM" src="https://github.com/user-attachments/assets/4e7743d4-be87-4836-9019-2e5ce5d22c69" />
+https://github.com/user-attachments/assets/9e72909d-a219-4f5a-b98f-ff80d0698347
 
 ### Future Improvements
 
