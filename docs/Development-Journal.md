@@ -114,10 +114,6 @@ During Week 7, I continued testing the application and troubleshooting issues.
 I wanted to implement a login system but had difficulty figuring out how to integrate it into the existing code. I began realizing that this feature might have been easier to develop if I had planned its implementation earlier.
 I kept the main exam interface relatively unchanged while focusing on the application's functionality.
 
-**Figure 7: Exam System During Testing**
-
-<img width="567" height="315" alt="Screenshot 2026-10-16 at 1 08 41 PM" src="https://github.com/user-attachments/assets/41662706-21f1-4582-81b1-39d89494a1dd" />
-
 ### Week 8: Final Project & Reflection
 
 During the final week, I made minor adjustments to the interface, including increasing the size of the "Start Exam" button.
