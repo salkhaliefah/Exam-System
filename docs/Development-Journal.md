@@ -46,7 +46,22 @@ https://github.com/user-attachments/assets/ff42c3b0-44d6-4554-a284-4740c8884762
 
 https://github.com/user-attachments/assets/d3b240ff-ab8c-4baa-9d65-24f5125f3a6d
 
+### Initial 8-Week Development Plan
 
+I created an eight-week timeline to organize the development process, starting with object-oriented design and progressing toward GUI implementation, event handling, testing, and debugging.
+
+| Week | Planned Development Goals |
+|---|---|
+| **1** | Plan the application structure, create CRC cards and a UML diagram. |
+| **2** | Begin implementing Java classes and developing test cases. |
+| **3** | Research Java Swing, design the GUI, and identify potential errors. |
+| **4** | Implement question navigation and connect the exam screens. |
+| **5** | Develop the interface, buttons, and question progression logic. |
+| **6** | Implement event handling to make the GUI interactive. |
+| **7** | Test the application, troubleshoot errors, and refine functionality. |
+| **8** | Complete debugging, finalize the project, and record a demonstration video. |
+
+This timeline served as my initial development plan. As I progressed, I adjusted certain goals and features based on the challenges I encountered.
 
 
 
